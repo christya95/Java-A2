@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"christya","l":"Account"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"christya","l":"Banking"},{"p":"christya","l":"ChequingAccount"},{"p":"christya","l":"InvestmentAccount"},{"p":"christya","l":"Overdraftable"},{"p":"christya","l":"SavingsAccount"}]
