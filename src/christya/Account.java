@@ -11,7 +11,7 @@ package christya;
 
 /**
  *
- * @author joss
+ * @author Josua Christyanton
  */
 public abstract class Account {
 
